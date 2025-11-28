@@ -43,4 +43,4 @@ Ensure you have the following installed on your system:
 ## Usage
 
 1.  **Select the Kernel:** Select the newly created `venv` as your Python kernel in your Jupyter environment.
-2.  **Run the Notebook:** Run the cells in `ServeDetection.ipynb`.
+2.  **Run the Notebook:** Run the cells in `parse_indeed.ipynb`.
