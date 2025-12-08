@@ -8,3 +8,6 @@ ipykernel
 requests
 datetime
 httpx
+matplotlib
+mlxtend
+nltk
